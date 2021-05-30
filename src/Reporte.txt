@@ -1,0 +1,5 @@
+Import-Module -Name MicrosoftTeams
+Import-Module -Name FuncionesTeams
+Nombre del script: Teams.ps1
+Nombre del módulo: FuncionesTeams
+Dirección de la carpeta donde fueron almacenados los módulos: C:\Program Files\WindowsPowerShell\Modules\FuncionesTeams
